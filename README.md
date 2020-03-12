@@ -31,4 +31,4 @@ Typescript
 
 ### Документация API
 
-Документация API создана в PostMan и доступна по [адресу][https://documenter.getpostman.com/view/8930560/szs1tour?version=latest#intro]
+Документация API создана в PostMan и доступна по [адресу](https://documenter.getpostman.com/view/8930560/SzS1ToUr?version=latest#intro)
